@@ -54,17 +54,6 @@ python scraper.py
 ## ⚖️ Disclaimer
 This tool is for personal use only. Please respect Vinmonopolet's terms of service and avoid aggressive scraping (e.g., running it thousands of times in a short loop).
 
-### How to add this to your repo
-1. Create a new file named `README.md` in your folder.
-2. Paste the text above into it.
-3. Save it.
-4. Run these commands in your terminal to update the repo:
-
-```
-git add README.md
-git commit -m "Add README with AI recommendation use case"
-git push
-```
 ## 📝 Todo / Roadmap
 
 ### 🔍 Scraper Expansion
