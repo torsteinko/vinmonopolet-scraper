@@ -1,0 +1,15 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Virtual environments
+venv/
+.env
+
+# Data files
+vinmonopolet_*.csv
+htmltobechecked.txt
+
+# Files for building
+extract_stores.py
